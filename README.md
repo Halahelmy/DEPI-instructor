@@ -1,4 +1,4 @@
-Introduction about myself
-importance of technology in our daily life
-cyber security introduction
-CIA and DAD Triad
+1-Introduction about myself
+2-importance of technology in our daily life
+3-cyber security introduction
+4-CIA and DAD Triad
